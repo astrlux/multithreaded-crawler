@@ -17,4 +17,4 @@ This web crawler uses multithreading processes to increase the crawl rate. By de
  
 [spider]: https://images-platform.99static.com/HBjSN7zLjJvJHqiWlGS940ySqew=/500x500/top/smart/99designs-contests-attachments/55/55065/attachment_55065923
 
-By Uposhanto Bhattacharya
+By Uposhanto Bhattacharya, 2019
