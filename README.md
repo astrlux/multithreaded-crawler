@@ -1,5 +1,5 @@
 # Multithreaded Web Crawler
-This Spider Program fetches all of the hyperlinks on a webpage, storing them in a ".txt" file on your system. Some of my personal projects need this type of information so I created this web crawler with the help of an online tutorial. The links can also be returned in a ".csv" format with minor adjustments to *general*.py, lines 13 & 14. 
+This Spider Program fetches all of the hyperlinks on a webpage, storing them in a ".txt" file on your system. Some of my personal projects need this type of information so I created this web crawler with the help of an online [tutorial]. The links can also be returned in a ".csv" format with minor adjustments to *general*.py, lines 13 & 14. 
 
 > In addition to the runtime benefits from multithreading, this program doesn't explore external links which could taint your data set. In other words, this program stays under the umbrella of the domain and doesn't wander off of your specified website. If you so desire, this feature can be toggled easily, however.   
 
@@ -16,5 +16,7 @@ This web crawler uses multithreading processes to increase the crawl rate. By de
  ![alt text][spider]
  
 [spider]: https://images-platform.99static.com/HBjSN7zLjJvJHqiWlGS940ySqew=/500x500/top/smart/99designs-contests-attachments/55/55065/attachment_55065923
+
+[tutorial]: https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw
 
 By Uposhanto Bhattacharya, 2019
