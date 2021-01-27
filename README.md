@@ -19,4 +19,4 @@ This web crawler uses multithreading processes to increase the crawl rate. By de
 
 [tutorial]: https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw
 
-By Uposhanto Bhattacharya, 2019
+Copyright Claim 2021
